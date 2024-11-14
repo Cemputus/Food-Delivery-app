@@ -1,7 +1,7 @@
 
-# Restaurant Delivery Service App
+# Food Delivery Service App
 
-The **Restaurant Delivery Service App** is a Python-based command-line application that facilitates restaurant management, customer ordering, and delivery tracking. With three main user roles—**Restaurant**, **Customer**, and **Delivery Person**—the app provides an interactive platform for placing and managing food orders seamlessly.
+The **Food Delivery Service App** is a Python-based command-line application that facilitates restaurant management, customer ordering, and delivery tracking. With three main user roles—**Restaurant**, **Customer**, and **Delivery Person**—the app provides an interactive platform for placing and managing food orders seamlessly.
 
 ## Features
 
